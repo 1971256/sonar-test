@@ -1,0 +1,9 @@
+{
+  "name": "sonar-test",
+  "version": "1.0.0",
+  "description": "测试 SonarQube 扫描的项目",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  }
+}
